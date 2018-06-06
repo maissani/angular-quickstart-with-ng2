@@ -1,4 +1,7 @@
 # Angular 2 QuickStart
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/maissani/angular-quickstart-with-ng2.svg)](https://greenkeeper.io/)
+
 ## Details:
 
 - Node: v5.5.0
